@@ -1,0 +1,5 @@
+package com.softtek.academia.repository;
+
+public interface MovieRepository {
+
+}
